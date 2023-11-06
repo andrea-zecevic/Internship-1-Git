@@ -1,6 +1,6 @@
-Luka ima 0 pobjeda i 0 poraza!
-Andrea ima 0 pobjeda i 0 poraza!
+Luka ima 3 pobjeda i 0 poraza!
+Andrea ima 0 pobjeda i 3 poraza!
 
-. o o
+. o X
 . X .
 X . .
