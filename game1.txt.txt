@@ -1,6 +1,7 @@
 Luka ima 0 pobjeda i 0 poraza!
 Andrea ima 0 pobjeda i 0 poraza!
 
+o . .
+. x .
 . . .
-. X .
-. . .
+
